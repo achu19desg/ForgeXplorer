@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Result | ForgeXplorer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body
+  class="min-h-screen bg-cover bg-center text-white flex items-center justify-center relative"
+  style="background-image: url('/static/images/result.jpg');"
+>
+
+  <!-- LOGOUT BUTTON -->
+  <a href="/logout" class="absolute top-6 right-6 z-50">
+    <button
+      class="px-6 py-3 rounded-full
+             bg-red-500 text-white font-semibold
+             hover:scale-110 transition shadow-xl">
+      Logout
+    </button>
+  </a>
+
+  <!-- MAIN CARD -->
+  <div class="w-full max-w-5xl bg-white/10 backdrop-blur-xl rounded-3xl p-10 shadow-2xl text-center">
+
+    <!-- TITLE -->
+    <h2 class="text-4xl font-bold mb-8">
+       Detection Result
+    </h2>
+
+    <!-- IMAGES -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
+
+      <!-- ORIGINAL IMAGE -->
+      <div>
+        <h3 class="text-lg font-semibold mb-3">Original Image</h3>
+        <img
+          src="{{ url_for('static', filename=image) }}"
+          class="w-full h-[350px] object-cover rounded-xl shadow-lg border border-white/20"
+          alt="Original Image"
+        >
+      </div>
+
+      <!-- CEA IMAGE -->
+      <div>
+        <h3 class="text-lg font-semibold mb-3">CEA Image</h3>
+        <img
+          src="{{ url_for('static', filename=cea_image) }}"
+          class="w-full h-[350px] object-cover rounded-xl shadow-lg border border-white/20"
+          alt="CEA Image"
+        >
+      </div>
+
+    </div>
+
+    <!-- PREDICTION -->
+    {% if prediction == "Authentic" %}
+      <div class="text-green-400 text-3xl font-bold mb-3">
+         Authentic Image
+      </div>
+    {% else %}
+      <div class="text-red-400 text-3xl font-bold mb-3">
+         Forged Image
+      </div>
+    {% endif %}
+
+    <!-- CONFIDENCE -->
+    <p class="text-xl text-gray-200 mb-3">
+      Confidence: <span class="font-semibold">{{ confidence }}</span>
+    </p>
+
+    <!-- FORGERY TYPE -->
+    {% if prediction == "Forged" %}
+    <p class="text-xl text-yellow-300 mb-8">
+      Forgery Type: <span class="font-semibold">{{ forgery_type }}</span>
+    </p>
+    {% endif %}
+
+    <!-- ACTION BUTTON -->
+    <div class="flex justify-center gap-6">
+      <a href="/upload">
+        <button
+          class="px-6 py-3 rounded-full
+                 bg-cyan-500 text-black font-semibold
+                 hover:scale-105 transition">
+          Upload Another
+        </button>
+      </a>
+
+<a href="{{ url_for('download_report', filename=filename) }}">
+  <button
+    class="px-6 py-3 rounded-full
+           bg-yellow-400 text-black font-semibold
+           hover:scale-105 transition">
+    Download Report
+  </button>
+</a>
+ 
+  </div>
+
+</body>
+</html>

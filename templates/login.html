@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Login | ForgeXplorer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+@keyframes fadeZoom {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-fade-zoom {
+  animation: fadeZoom 0.8s ease-out;
+}
+</style>
+</head>
+
+<body
+  class="min-h-screen flex items-center justify-center bg-cover bg-center text-white"
+  style="background-image: url('/static/images/log.jpg');"
+>
+
+<!-- FLASH MESSAGE -->
+{% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+    <div id="toast-container" class="fixed top-5 right-5 space-y-3 z-50">
+
+      {% for category, message in messages %}
+        <div class="toast px-6 py-3 rounded-lg shadow-lg text-white font-semibold
+        transform translate-x-full opacity-0 transition-all duration-500
+
+        {% if category == 'success' %}
+          bg-green-500
+        {% elif category == 'error' %}
+          bg-red-500
+        {% else %}
+          bg-blue-500
+        {% endif %}
+        ">
+          {{ message }}
+        </div>
+      {% endfor %}
+
+    </div>
+  {% endif %}
+{% endwith %}
+
+<!-- LOGIN CARD -->
+<div class="w-full max-w-md bg-white/10 backdrop-blur-xl rounded-3xl p-10 shadow-2xl animate-fade-zoom">
+
+  <!-- TITLE -->
+  <h2 class="text-4xl font-extrabold text-center mb-4">
+    Forge<span class="text-cyan-400">Xplorer</span>
+  </h2>
+
+  <p class="text-center text-gray-300 mb-6">
+    Login to continue image forgery detection
+  </p>
+
+
+  <!-- LOGIN FORM -->
+  <form method="post" class="space-y-6">
+
+    <!-- EMAIL -->
+    <input
+      type="email"
+      name="email"
+      placeholder="Enter your email"
+      required
+      class="w-full px-4 py-3 rounded-lg bg-white/10 text-white
+             border border-white/20 focus:outline-none
+             focus:border-cyan-400"
+    >
+
+    <!-- PASSWORD -->
+    <input
+      type="password"
+      name="password"
+      placeholder="Enter your password"
+      required
+      class="w-full px-4 py-3 rounded-lg bg-white/10 text-white
+             border border-white/20 focus:outline-none
+             focus:border-purple-400"
+    >
+
+    <!-- LOGIN BUTTON -->
+    <button
+      type="submit"
+      class="w-full py-3 rounded-full
+             bg-gradient-to-r from-cyan-400 to-purple-500
+             text-white font-semibold text-lg
+             hover:scale-105 transition duration-300 shadow-lg">
+      Login
+    </button>
+
+  </form>
+
+<!-- CREATE ACCOUNT -->
+<div class="flex items-center justify-center gap-3 mt-6">
+  
+  <p class="text-gray-400 text-lg">
+    Don't have an account?
+  </p>
+
+  <a href="/register"
+     class="text-green-400 hover:text-white text-xl font-bold">
+    Register
+  </a>
+
+</div>
+
+  <!-- BACK TO HOME -->
+  <div class="text-center mt-6">
+    <a href="/" class="text-gray-400 hover:text-white text-lg font-bold">
+       Back to Home
+    </a>
+  </div>
+
+</div>
+
+
+
+</body>
+
+<script>
+  const toasts = document.querySelectorAll(".toast");
+
+  toasts.forEach((toast, index) => {
+    setTimeout(() => {
+      toast.classList.remove("translate-x-full", "opacity-0");
+    }, index * 200);
+
+    setTimeout(() => {
+      toast.classList.add("translate-x-full", "opacity-0");
+    }, 2000 + index * 200);
+
+    setTimeout(() => {
+      toast.remove();
+    }, 2500 + index * 200);
+  });
+</script>
+</html>

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ForgeXplorer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body
+class="min-h-screen bg-cover bg-center bg-no-repeat text-white"
+style="background-image: url('/static/images/robot.jpg');"
+>
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+{% if messages %}
+<div id="flash-message"
+     class="absolute top-10 left-1/2 transform -translate-x-1/2 space-y-2 z-50">
+
+{% for category, message in messages %}
+<div class="px-6 py-3 rounded-lg shadow-lg
+{% if category == 'success' %}
+bg-green-500
+{% else %}
+bg-red-500
+{% endif %}
+text-white font-semibold text-center">
+
+{{ message }}
+
+</div>
+{% endfor %}
+
+</div>
+{% endif %}
+{% endwith %}
+
+<!-- NAVBAR -->
+<nav class="flex justify-between items-center px-10 py-6 text-white">
+<div class="flex items-center space-x-4">
+
+  <!-- 3D LOGO -->
+  <div class="logo-3d p-2 rounded-full 
+              bg-gradient-to-r from-cyan-400 to-blue-500 
+              shadow-xl">
+
+    <img src="/static/images/logo.png"
+         class="h-20 w-20 object-contain rounded-full">
+  </div>
+
+  <!-- TITLE -->
+  <h1 class="text-4xl font-bold tracking-wide">
+    Image <span class="text-cyan-400">Forgery Detection</span>
+  </h1>
+
+</div>
+
+  <!-- MENU -->
+  <ul class="flex space-x-4 text-lg font-medium">
+
+    <li>
+      <a href="/about"
+         class="px-4 py-2 rounded-lg bg-white/10 backdrop-blur-md
+                hover:bg-cyan-500 hover:text-black transition duration-300">
+        About us
+      </a>
+    </li>
+
+    {% if session.get("logged_in") %}
+      <!-- LOGOUT (when logged in) -->
+      <li>
+        <a href="/logout"
+           class="px-4 py-2 rounded-lg bg-red-500/80
+                  hover:bg-red-500 hover:text-white transition duration-300">
+          Logout
+        </a>
+      </li>
+    {% else %}
+      <!-- LOGIN (when not logged in) -->
+      <li>
+        <a href="/login"
+           class="px-4 py-2 rounded-lg bg-white/10 backdrop-blur-md
+                  hover:bg-purple-500 hover:text-black transition duration-300">
+          Login
+        </a>
+      </li>
+    {% endif %}
+
+  </ul>
+</nav>
+
+<!-- HERO SECTION -->
+<section class="flex items-center px-16 mt-20">
+
+  <!-- LEFT TEXT + BUTTON -->
+  <div class="text-white max-w-xl space-y-6 animate-fade-in">
+  
+
+    <h2 class="text-7xl font-extrabold leading-tight">
+      <span class="text-cyan-300">ForgeXplorer</span>
+    </h2>
+
+    <p class="text-gray-300 text-lg">
+      Upload any image and verify whether it is authentic or forged
+      with confidence score.
+    </p>
+
+    <!-- BUTTON (moved here) -->
+    <div class="relative mt-6 w-fit">
+      <div class="absolute inset-0 rounded-full bg-cyan-500 blur-3xl opacity-60"></div>
+
+      {% if session.get("logged_in") %}
+        <a href="/upload">
+          <button
+            class="relative px-11 py-5 rounded-full
+            bg-gradient-to-r from-cyan-400 to-purple-500
+            text-white font-semibold text-lg
+            hover:scale-110 transition duration-300 shadow-xl">
+            Start Detection
+          </button>
+        </a>
+      {% else %}
+        <a href="/login">
+          <button
+            class="relative px-11 py-5 rounded-full
+            bg-gradient-to-r from-cyan-400 to-purple-500
+            text-white font-semibold text-lg
+            hover:scale-110 transition duration-300 shadow-xl">
+            Start Detection
+          </button>
+        </a>
+      {% endif %}
+    </div>
+
+  </div>
+
+</section>
+
+
+<!-- ANIMATION -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in {
+  animation: fadeIn 1.5s ease-out;
+}
+</style>
+<style>
+/* 3D perspective */
+.logo-3d {
+  perspective: 1000px;
+  animation: rotate3D 2s ease-in-out;
+}
+
+/* 3D rotation animation */
+@keyframes rotate3D {
+  0% {
+    transform: rotateY(0deg) rotateX(0deg);
+  }
+  50% {
+    transform: rotateY(180deg) rotateX(10deg);
+  }
+  100% {
+    transform: rotateY(360deg) rotateX(0deg);
+  }
+}
+
+/* Hover 3D tilt effect */
+.logo-3d:hover {
+  transform: rotateY(20deg) rotateX(10deg) scale(1.1);
+  transition: transform 0.5s ease;
+}
+</style>
+
+<script>
+setTimeout(function(){
+let flash = document.getElementById("flash-message");
+if(flash){
+flash.style.display="none";
+}
+},2000);
+</script>
+
+
+</body>
+</html>

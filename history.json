@@ -1,0 +1,1046 @@
+[
+    {
+        "email": "hazel@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "84.16%"
+    },
+    {
+        "email": "omana@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "84.16%"
+    },
+    {
+        "email": "gop@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "84.16%"
+    },
+    {
+        "email": "gop@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "84.16%"
+    },
+    {
+        "email": "sank@gmail.com",
+        "image": "artworks-000167794693-4qdt6o-t500x500.jpg",
+        "result": "Forged",
+        "confidence": "80.38%"
+    },
+    {
+        "email": "sank@gmail.com",
+        "image": "artworks-000167794693-4qdt6o-t500x500.jpg",
+        "result": "Forged",
+        "confidence": "80.38%"
+    },
+    {
+        "email": "sank@gmail.com",
+        "image": "artworks-000167794693-4qdt6o-t500x500.jpg",
+        "result": "Forged",
+        "confidence": "80.38%"
+    },
+    {
+        "email": "sank@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "84.16%"
+    },
+    {
+        "email": "sank@gmail.com",
+        "image": "OIP.jpg",
+        "result": "Authentic",
+        "confidence": "91.83%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "OIP.jpg",
+        "result": "Authentic",
+        "confidence": "91.83%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "84.16%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CND_S_N_txt00028_txt00006_10848.jpg",
+        "result": "Forged",
+        "confidence": "52.83%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CNN_M_N_art00052_arc00030_11853.jpg",
+        "result": "Forged",
+        "confidence": "73.58%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Au_ani_00001.jpg",
+        "result": "Authentic",
+        "confidence": "98.82%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_M_B_ani00046_ani00001_10100.jpg",
+        "result": "Authentic",
+        "confidence": "81.89%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_M_N_art00058_art00049_10529.jpg",
+        "result": "Authentic",
+        "confidence": "75.39%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_M_N_art00014_art00013_11836.jpg",
+        "result": "Authentic",
+        "confidence": "64.36%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRD_M_B_arc10113_arc10112_10030.jpg",
+        "result": "Authentic",
+        "confidence": "98.07%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CNN_S_N_cha10122_nat00059_12169.jpg",
+        "result": "Forged",
+        "confidence": "67.16%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CNN_S_B_art10110_cha10110_11564.jpg",
+        "result": "Forged",
+        "confidence": "52.24%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_S_NRN_S_O_arc10129_arc10129_11895.jpg",
+        "result": "Forged",
+        "confidence": "53.40%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_S_NRN_S_N_txt00084_txt00084_11302.jpg",
+        "result": "Forged",
+        "confidence": "77.50%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CNN_S_N_cha00044_cha00043_00364.jpg",
+        "result": "Authentic",
+        "confidence": "94.50%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_M_N_art00067_ani00093_11801.jpg",
+        "result": "Authentic",
+        "confidence": "94.41%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_NNN_M_N_nat00033_cha00062_11380.jpg",
+        "result": "Authentic",
+        "confidence": "92.87%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "artworks-000167794693-4qdt6o-t500x500.jpg",
+        "result": "Forged",
+        "confidence": "80.38%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "84.16%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "Archana.jpg",
+        "result": "Forged",
+        "confidence": "81.01%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "OIP (1).jpg",
+        "result": "Authentic",
+        "confidence": "84.57%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "WhatsApp Image 2025-11-07 at 9.42.03 PM (1)_11zon.jpg",
+        "result": "Forged",
+        "confidence": "74.35%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "doll.jpg",
+        "result": "Authentic",
+        "confidence": "73.51%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "flower.jpg",
+        "result": "Authentic",
+        "confidence": "98.63%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "th.jpg",
+        "result": "Authentic",
+        "confidence": "100.00%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "nikon_7tamp1.jpg",
+        "result": "Forged",
+        "confidence": "78.54%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "P1020685_scale.jpg",
+        "result": "Forged",
+        "confidence": "70.69%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "P7310182tamp7.jpg",
+        "result": "Forged",
+        "confidence": "75.01%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "P7290459tamp11.jpg",
+        "result": "Forged",
+        "confidence": "80.90%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "IMG_2395_scale.jpg",
+        "result": "Forged",
+        "confidence": "82.02%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "writing_history.jpg",
+        "result": "Forged",
+        "confidence": "81.63%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "writing_history_gt.jpg",
+        "result": "Forged",
+        "confidence": "82.14%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "tree_gt.jpg",
+        "result": "Forged",
+        "confidence": "82.14%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "white_gcs500_gt_rb5.jpg",
+        "result": "Forged",
+        "confidence": "82.30%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "window_gcs500_copy_rb5.jpg",
+        "result": "Forged",
+        "confidence": "75.61%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "writing_history_gcs500_gt_rb5.jpg",
+        "result": "Forged",
+        "confidence": "82.16%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "wood_carvings_gcs500_gt_rb5.jpg",
+        "result": "Forged",
+        "confidence": "82.21%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "writing_history_gcs500_copy_rb5.jpg",
+        "result": "Forged",
+        "confidence": "82.98%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "horses_gcs500_copy_rb5.jpg",
+        "result": "Forged",
+        "confidence": "82.65%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "four_babies_gcs500_copy_rb5.jpg",
+        "result": "Forged",
+        "confidence": "76.45%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "statue.jpg",
+        "result": "Forged",
+        "confidence": "80.87%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "tree.jpg",
+        "result": "Forged",
+        "confidence": "84.18%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "Au_ani_00007.jpg",
+        "result": "Authentic",
+        "confidence": "97.23%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "Au_ani_00011.jpg",
+        "result": "Authentic",
+        "confidence": "81.00%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "canonxt_kodakdcs330_sub_30.jpg",
+        "result": "Forged",
+        "confidence": "84.82%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "nikond70_canonxt_sub_07.jpg",
+        "result": "Forged",
+        "confidence": "81.26%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "canong3_nikond70_sub_04.jpg",
+        "result": "Forged",
+        "confidence": "83.93%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "canonxt_38_sub_08.jpg",
+        "result": "Forged",
+        "confidence": "82.10%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "canonxt_38_sub_04.jpg",
+        "result": "Forged",
+        "confidence": "72.64%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "kodakdcs330_01_sub_01.jpg",
+        "result": "Forged",
+        "confidence": "62.44%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "WhatsApp Image 2026-03-07 at 12.31.20 PM.jpg",
+        "result": "Forged",
+        "confidence": "81.63%"
+    },
+    {
+        "email": "jim@gmail.com",
+        "image": "WhatsApp Image 2026-03-07 at 12.32.20 PM.jpg",
+        "result": "Forged",
+        "confidence": "81.21%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "66.39%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260237tamp6.jpg",
+        "result": "Forged",
+        "confidence": "77.69%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "artworks-000167794693-4qdt6o-t500x500.jpg",
+        "result": "Forged",
+        "confidence": "79.92%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260237tamp7.jpg",
+        "result": "Forged",
+        "confidence": "77.79%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PC190612tamp1.jpg",
+        "result": "Forged",
+        "confidence": "79.39%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260237tamp7.jpg",
+        "result": "Forged",
+        "confidence": "77.79%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "P7310182tamp11.jpg",
+        "result": "Forged",
+        "confidence": "76.95%"
+    },
+    {
+        "email": "sank@gmail.com",
+        "image": "P7310182tamp12.jpg",
+        "result": "Forged",
+        "confidence": "80.31%"
+    },
+    {
+        "email": "sank@gmail.com",
+        "image": "PC190612tamp13.jpg",
+        "result": "Forged",
+        "confidence": "84.64%"
+    },
+    {
+        "email": "sank@gmail.com",
+        "image": "PC190612tamp13.jpg",
+        "result": "Forged",
+        "confidence": "84.64%"
+    },
+    {
+        "email": "sank@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "66.39%"
+    },
+    {
+        "email": "sank@gmail.com",
+        "image": "artworks-000167794693-4qdt6o-t500x500.jpg",
+        "result": "Forged",
+        "confidence": "79.92%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260237tamp6.jpg",
+        "result": "Forged",
+        "confidence": "77.69%"
+    },
+    {
+        "email": "minnu@gmail.com",
+        "image": "P7310182tamp12.jpg",
+        "result": "Forged",
+        "confidence": "80.31%"
+    },
+    {
+        "email": "minnu@gmail.com",
+        "image": "WhatsApp Image 2025-11-07 at 9.42.03 PM (1)_11zon (1).jpg",
+        "result": "Authentic",
+        "confidence": "61.52%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "artworks-000167794693-4qdt6o-t500x500.jpg",
+        "result": "Forged",
+        "confidence": "79.92%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Original-Crime-Scene-Photo-400x284.jpg",
+        "result": "Authentic",
+        "confidence": "58.10%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "200_O_JC4.jpg",
+        "result": "Authentic",
+        "confidence": "61.52%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "193_F_JC4.jpg",
+        "result": "Authentic",
+        "confidence": "80.88%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "193_O_JC4.jpg",
+        "result": "Authentic",
+        "confidence": "70.04%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "195_F_JC4.jpg",
+        "result": "Authentic",
+        "confidence": "85.55%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "187_F_JC4.jpg",
+        "result": "Forged",
+        "confidence": "64.19%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "186_O_JC4.jpg",
+        "result": "Forged",
+        "confidence": "57.41%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "194_O_JC4.jpg",
+        "result": "Authentic",
+        "confidence": "99.88%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "194_F_JC4.jpg",
+        "result": "Authentic",
+        "confidence": "99.94%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "199_O_JC4.jpg",
+        "result": "Authentic",
+        "confidence": "85.79%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "canonxt_kodakdcs330_sub_28.jpg",
+        "result": "Forged",
+        "confidence": "80.42%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PC190612_scale.jpg",
+        "result": "Forged",
+        "confidence": "78.92%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "66.39%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "artworks-000167794693-4qdt6o-t500x500.jpg",
+        "result": "Forged",
+        "confidence": "79.92%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "ChatGPT Image Mar 24, 2026, 10_48_02 PM.jpg",
+        "result": "Forged",
+        "confidence": "66.44%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260237tamp6.jpg",
+        "result": "Forged",
+        "confidence": "77.69%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "66.39%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "66.39%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Im100_col3.jpg",
+        "result": "Authentic",
+        "confidence": "99.99%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Im12_r3.jpg",
+        "result": "Forged",
+        "confidence": "85.34%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "1.jpg",
+        "result": "Authentic",
+        "confidence": "54.40%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "10.jpg",
+        "result": "Forged",
+        "confidence": "84.03%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "photoshopped-animal-hybrids-5.jpg",
+        "result": "Forged",
+        "confidence": "73.21%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "photoshopped-animal-hybrids-5.jpg",
+        "result": "Forged",
+        "confidence": "73.21%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "10.jpg",
+        "result": "Forged",
+        "confidence": "84.03%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "ChatGPT Image Mar 24, 2026, 10_48_02 PM.jpg",
+        "result": "Forged",
+        "confidence": "66.44%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "10.jpg",
+        "result": "Forged",
+        "confidence": "84.03%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "100 (1).jpg",
+        "result": "Authentic",
+        "confidence": "99.04%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "photoshopped-animal-hybrids-5.jpg",
+        "result": "Forged",
+        "confidence": "73.21%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "66.39%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PC190612tamp12.jpg",
+        "result": "Forged",
+        "confidence": "78.59%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "canong3_kodakdcs330_sub_07.jpg",
+        "result": "Authentic",
+        "confidence": "54.52%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PC190612tamp1.jpg",
+        "result": "Forged",
+        "confidence": "79.39%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Im12_r3.jpg",
+        "result": "Forged",
+        "confidence": "85.34%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "OIP.jpg",
+        "result": "Authentic",
+        "confidence": "97.76%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "imresizer-d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "54.29%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "canong3_kodakdcs330_sub_07.jpg",
+        "result": "Authentic",
+        "confidence": "54.52%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "artworks-000167794693-4qdt6o-t500x500.jpg",
+        "result": "Forged",
+        "confidence": "79.92%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "canong3_nikond70_sub_19.jpg",
+        "result": "Forged",
+        "confidence": "66.90%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "P7310182tamp11.jpg",
+        "result": "Forged",
+        "confidence": "76.95%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PC190612tamp13.jpg",
+        "result": "Forged",
+        "confidence": "84.64%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CNN_M_N_art00052_arc00030_11853.jpg",
+        "result": "Forged",
+        "confidence": "75.34%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_M_N_ani10144_nat10139_12474.jpg",
+        "result": "Forged",
+        "confidence": "64.57%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CNN_S_B_art10110_cha10110_11564.jpg",
+        "result": "Authentic",
+        "confidence": "84.07%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_L_N_art00028_art00028_11282.jpg",
+        "result": "Forged",
+        "confidence": "85.08%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_S_B_pla00041_pla00040_10978.jpg",
+        "result": "Forged",
+        "confidence": "58.60%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_M_N_ani10116_ani00100_11643.jpg",
+        "result": "Authentic",
+        "confidence": "61.21%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_M_N_pla00026_pla00038_10147.jpg",
+        "result": "Authentic",
+        "confidence": "99.56%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_S_N_ani10205_ani10206_12417.jpg",
+        "result": "Forged",
+        "confidence": "70.41%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CND_M_N_art00076_art00077_10289.jpg",
+        "result": "Authentic",
+        "confidence": "79.16%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CND_M_N_art00077_art00076_10290.jpg",
+        "result": "Authentic",
+        "confidence": "59.08%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_M_N_arc00045_arc00071_10087.jpg",
+        "result": "Authentic",
+        "confidence": "62.54%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "200_O_JC4.jpg",
+        "result": "Authentic",
+        "confidence": "61.52%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "182_F_JC4.jpg",
+        "result": "Forged",
+        "confidence": "50.81%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "155_O_JC4.jpg",
+        "result": "Forged",
+        "confidence": "53.62%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "127_O_JC4.jpg",
+        "result": "Authentic",
+        "confidence": "96.94%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "nikon_7tamp9.jpg",
+        "result": "Authentic",
+        "confidence": "57.79%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "brasimone008_scale.jpg",
+        "result": "Forged",
+        "confidence": "73.48%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA270280_scale.jpg",
+        "result": "Forged",
+        "confidence": "89.67%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PC190129_scale.jpg",
+        "result": "Authentic",
+        "confidence": "95.05%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260231_scale.jpg",
+        "result": "Forged",
+        "confidence": "54.79%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260231_scale.jpg",
+        "result": "Forged",
+        "confidence": "54.79%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260231_scale.jpg",
+        "result": "Forged",
+        "confidence": "54.79%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Im12_r3.jpg",
+        "result": "Forged",
+        "confidence": "85.34%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "11t.jpg",
+        "result": "Forged",
+        "confidence": "55.57%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "doll.jpg",
+        "result": "Authentic",
+        "confidence": "84.66%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CNN_M_N_nat10156_ani00024_12016_11zon_11zon (1).jpg",
+        "result": "Forged",
+        "confidence": "66.92%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Im100_col3.jpg",
+        "result": "Authentic",
+        "confidence": "99.99%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_S_N_ani10205_ani10206_12417.jpg",
+        "result": "Forged",
+        "confidence": "70.41%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Aerial view of duplicated historic buildings.jpg",
+        "result": "Authentic",
+        "confidence": "76.43%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CNN_M_B_nat10139_nat00059_11949.jpg",
+        "result": "Authentic",
+        "confidence": "88.89%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CNN_S_N_cha10122_nat00059_12169.jpg",
+        "result": "Authentic",
+        "confidence": "74.63%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CNN_S_N_ani00087_ani00088_10102.jpg",
+        "result": "Authentic",
+        "confidence": "65.65%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRD_M_N_nat00048_nat00049_11067.jpg",
+        "result": "Authentic",
+        "confidence": "92.57%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_M_N_nat00019_nat00028_11048.jpg",
+        "result": "Authentic",
+        "confidence": "99.55%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_M_N_pla00035_pla00033_10997.jpg",
+        "result": "Authentic",
+        "confidence": "87.40%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CND_S_N_txt00028_txt00006_10848.jpg",
+        "result": "Forged",
+        "confidence": "74.74%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "Tp_D_CRN_M_N_pla00046_pla00025_10994.jpg",
+        "result": "Forged",
+        "confidence": "62.26%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "036_O_JC4.jpg",
+        "result": "Authentic",
+        "confidence": "71.25%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "84t.jpg",
+        "result": "Authentic",
+        "confidence": "87.84%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PC190612tamp2.jpg",
+        "result": "Forged",
+        "confidence": "77.90%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260231_scale.jpg",
+        "result": "Forged",
+        "confidence": "54.79%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260237tamp9.jpg",
+        "result": "Forged",
+        "confidence": "77.76%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "artworks-000167794693-4qdt6o-t500x500.jpg",
+        "result": "Forged",
+        "confidence": "79.92%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PC190612tamp12.jpg",
+        "result": "Forged",
+        "confidence": "78.59%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260237tamp6.jpg",
+        "result": "Forged",
+        "confidence": "77.69%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "artworks-000167794693-4qdt6o-t500x500.jpg",
+        "result": "Forged",
+        "confidence": "79.92%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260231_scale.jpg",
+        "result": "Forged",
+        "confidence": "54.79%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "photo_11_2026-03-04_22-39-02.jpg",
+        "result": "Authentic",
+        "confidence": "88.80%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "photo_2_2026-03-04_22-38-34.jpg",
+        "result": "Authentic",
+        "confidence": "85.47%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "photo_9_2026-03-04_22-38-34.jpg",
+        "result": "Authentic",
+        "confidence": "79.85%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "artworks-000167794693-4qdt6o-t500x500.jpg",
+        "result": "Forged",
+        "confidence": "79.92%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "photo_34_2026-03-04_22-38-351.jpg",
+        "result": "Authentic",
+        "confidence": "59.01%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "photo_34_2026-03-04_22-38-3514.jpg",
+        "result": "Authentic",
+        "confidence": "60.22%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "d1d89b0bb402423122db6b69f2aaa192.jpg",
+        "result": "Forged",
+        "confidence": "66.39%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "PA260237tamp9.jpg",
+        "result": "Forged",
+        "confidence": "77.76%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "WIN_20260430_15_01_10_Pro.jpg",
+        "result": "Authentic",
+        "confidence": "92.72%"
+    },
+    {
+        "email": "ary@gmail.com",
+        "image": "pic new.jpg",
+        "result": "Authentic",
+        "confidence": "87.84%"
+    }
+]
