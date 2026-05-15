@@ -94,7 +94,7 @@ ForgeXplorer/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/frontpage.png)
+![Home Page](frontpage.png)
 
 ---
 
